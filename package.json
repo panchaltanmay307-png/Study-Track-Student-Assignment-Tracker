@@ -1,0 +1,13 @@
+{
+  "name": "studytrack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "StudyTrack assignment tracker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
